@@ -27,16 +27,22 @@ Convertio es una aplicación que permite convertir diferentes divisas utilizando
 API_KEY: Tu clave de API de ExchangeRate-API.
 
 ## Uso
-Ejecuta la clase Main.java.
+# Ejecuta la clase Main.java.
 
 Selecciona la opción de conversión que desees:
 
 1)Dólar a Peso Argentino
+
 2)Peso Argentino a Dólar
+
 3)Dólar a Real Brasileño
+
 4)Real Brasileño a Dólar
+
 5)Dólar a Peso Colombiano
+
 6)Peso Colombiano a Dólar
+
 7)Otras conversiones (Ingresar el código del país, Ej. DZD)
 8)Salir
 Ingresa el monto a convertir.
