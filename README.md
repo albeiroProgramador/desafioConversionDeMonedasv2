@@ -22,8 +22,11 @@ Convertio es una aplicación que permite convertir diferentes divisas utilizando
 ## Instalación
 
 1. Clona este repositorio en tu máquina local.
+   
 2.Abre el proyecto en tu IDE de preferencia (se recomienda IntelliJ IDEA).
+
 3.Configura las variables de entorno necesarias:
+
 API_KEY: Tu clave de API de ExchangeRate-API.
 
 ## Uso
@@ -52,10 +55,12 @@ El resultado de la conversión y la tasa de conversión se mostrarán en pantall
 Al finalizar, puedes consultar el historial de conversiones.
 
 ## Tecnologías Utilizadas
-Java 17
-HTTP Client
-Gson
-ExchangeRate-API
+
+* Java 17
+* HTTP Client
+* Gson
+* ExchangeRate-API
+  
 https://www.exchangerate-api.com/
 
 ##Contribución
